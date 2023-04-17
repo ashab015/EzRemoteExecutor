@@ -1,6 +1,6 @@
 # EzRemoteExecutor
 
-A simple to use RemoteExecutor thats actually simple and not a complex pile of shit like WinRM. ✨Magic ✨
+A simple to use RemoteExecutor thats actually simple. ✨Magic ✨
 Was forced to create this after spending hours fighting with WinRM in intranet VM's.
 
 ## Features
